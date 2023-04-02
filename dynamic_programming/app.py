@@ -15,5 +15,5 @@ def dynamic_fibonacci(n):
 lookup = [None] * 1000  # store 1000 items in the lookup list
 
 
-for i in range(10):
+for i in range(20):
     print(dynamic_fibonacci(i))
